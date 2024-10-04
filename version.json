@@ -1,4 +1,5 @@
 {
     "version": "1.0.0",
-    "downloadUrl": "https://github.com/yourusername/repositoryname/releases/download/v1.0.0/Skyfall.AIO.exe"
+    "baseDownloadUrl": "https://github.com/yourusername/SkyfallCheck/releases/download/",
+    "downloadFilename": "Skyfall.AIO.exe"
 }
